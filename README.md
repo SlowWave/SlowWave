@@ -25,7 +25,7 @@
 ---
 
 
-<a style="display: flex; align-items: center;">
+<a style="align-items: center;">
 <img height="130px" style="display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=slowwave&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&locale=en&theme=slateorange" />
 <img height="130px" style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=slowwave&hide_title=true&include_all_commits=true&layout=compact&langs_count=6&theme=slateorange" />
 </a>
