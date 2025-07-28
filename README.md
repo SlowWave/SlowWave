@@ -1,11 +1,12 @@
+<br/>
 <p align="center">
-  <img src="dino_sw.gif" alt="Animated dinosaur logo" width="100%" />
+    <img src="dino_sw.gif" alt="Logo" width=100%>
 </p>
 
 ---
 
 <h3 align="left">Languages</h3>
-<p align="center">
+<p align="cent">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css&theme=dark" />
   </a>
@@ -22,7 +23,8 @@
 
 ---
 
-<p align="center">
-  <img height="166px" src="https://github-readme-stats.vercel.app/api?username=slowwave&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&locale=en&theme=slateorange" />
-  <img height="166px" src="https://github-readme-stats.vercel.app/api/top-langs?username=slowwave&hide_title=true&include_all_commits=true&size_weight=0.0&count_weight=1.0&layout=compact&langs_count=6&theme=slateorange" />
+
+<p>
+<img height="166px" style="display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=slowwave&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&locale=en&theme=slateorange" />
+<img height="166px" style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=slowwave&hide_title=true&include_all_commits=true&size_weight=0.0&count_weight=1.0&layout=compact&langs_count=6&theme=slateorange" />
 </p>
