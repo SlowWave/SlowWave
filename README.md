@@ -24,13 +24,7 @@
 ---
 
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="166px" src="https://github-readme-stats.vercel.app/api?username=slowwave&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&locale=en&theme=slateorange" />
-    </td>
-    <td align="center">
-      <img height="166px" src="https://github-readme-stats.vercel.app/api/top-langs?username=slowwave&hide_title=true&include_all_commits=true&size_weight=0.0&count_weight=1.0&layout=compact&langs_count=6&theme=slateorange" />
-    </td>
-  </tr>
-</table>
+<p>
+<img height="166px" style="display:inline-block;" src="https://github-readme-stats.vercel.app/api?username=slowwave&hide_title=true&show_icons=true&rank_icon=github&include_all_commits=true&locale=en&theme=slateorange" />
+<img height="166px" style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=slowwave&hide_title=true&include_all_commits=true&size_weight=0.0&count_weight=1.0&layout=compact&langs_count=6&theme=slateorange" />
+</p>
